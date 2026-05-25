@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MemPulse/MemPulse.vcxproj" />
+  <Project Path="MemPulse/MemPulse.vcxproj" Id="5668f34c-ed5c-4f59-b4a4-1950af3289a4" />
 </Solution>
